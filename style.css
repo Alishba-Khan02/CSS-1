@@ -1,0 +1,93 @@
+*{
+    background-color:deeppink
+}
+#new{
+    text-align: center;
+    width: 60%;
+    height: 155%;
+    position: absolute;
+    top: 5%;
+    bottom: 10%;
+    left: 20%;
+    
+}
+.nonee{
+    text-align: center;
+    background-color: white;
+
+
+
+}
+
+
+body{
+    text-align: center;
+}
+.work{
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    word-spacing: 150px;
+    margin: auto;
+}
+.head{
+    text-transform: capitalize;
+    word-spacing: 100px;
+    background-color: white;
+    height: 10%;
+    margin: auto;
+}
+.paragraph{
+    text-transform: capitalize;
+    text-align:center;
+    word-spacing:5px ;
+    background-color: white;
+    height: 10%;
+    margin: auto;
+    
+
+}
+.nonee h1{
+
+    height: 50%;
+    margin: auto;
+}
+.nonee p{
+    height: 50%;
+    margin: auto;
+}
+figure{
+    display: inline-block;
+}
+figure figcaption{
+    text-align: center;
+    background-color: white;
+}
+.nonee.fig{
+    text-align: center;
+    background-color: white;
+
+
+}
+    
+    .fig2{
+        background-color: white;
+    }
+    .fig1{
+        background-color: white;
+    }
+    .fig{
+        background-color: white;
+    }
+.fig3{
+    background-color: white;
+    text-align: center;
+}
+.fig4{
+background-color: white;
+    text-align: center;
+}
+.fig5{
+    background-color: white;
+    text-align: center;
+}
